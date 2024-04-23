@@ -88,7 +88,15 @@ Kettk is an event platform where users can discover and create events based in K
 
 [Figma][https://www.figma.com/file/JLbrEfCeGTtgbVwcjvR37I/Storyboard?type=design&node-id=52%3A3&mode=design&t=WQIhEnVfaKGfyGkI-1]
 
-### [BONUS] Interactive Prototype
+## Sprints
+
+- **Sprint 1 (Completed):** Create the main screens and add relationships between the screens
+- **Sprint 2 (Completed):** Display the list of events on the home screen using a table view. Add functionality to allow users to add events to their favorites list. Implement local data persistence to store user favorites locally on the device.
+- **Sprint 3:** Create a settings screen for the users to change the necessary settings in the app.
+
+## Models
+
+Video Walkthrough: [YouTube][https://youtu.be/vZJ63xzv01Y] 
 
 ## Schema 
 
