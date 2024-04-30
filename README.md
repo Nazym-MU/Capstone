@@ -92,22 +92,14 @@ Kettk is an event platform where users can discover and create events based in K
 
 - **Sprint 1 (Completed):** Create the main screens and add relationships between the screens
 - **Sprint 2 (Completed):** Display the list of events on the home screen using a table view. Add functionality to allow users to add events to their favorites list. Implement local data persistence to store user favorites locally on the device.
-- **Sprint 3:** Create a settings screen for the users to change the necessary settings in the app.
+- **Sprint 3 (Completed):** Create a settings screen for the users to change the necessary settings in the app.
 
 ## Models
 
-Video Walkthrough: [YouTube][https://youtu.be/vZJ63xzv01Y] 
+Video Walkthrough: [YouTube][https://youtu.be/bsBkKVeTNKU] 
 
 ## Schema 
 
-[This section will be completed in Unit 9]
-
-### Models
-
-[Add table of models]
-
 ### Networking
 
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+- For now, the app shows mock data because there is no API or database with events in Almaty, but I created a new Firebase database and connected it to the app, and will be filling out the database manually.
